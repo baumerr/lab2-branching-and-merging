@@ -15,6 +15,7 @@ This recipe makes a three-layer celebration cake with a caramel filling between 
 - 2 teaspoons vanilla extract
 - 3/4 cup unsweetened cocoa powder
 - 1 cup dark chocolate chips
+- 1 teaspoon crack
 
 ## Filling
 
